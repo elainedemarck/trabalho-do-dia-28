@@ -1,17 +1,17 @@
 body{
-    background-color: #239e6179;
-    color: rgb(20, 104, 199);
-    text-align: center;
+    background-color: aqua;
+    color: #1900ffd7;
+    text-align: justify;
     font-size: 20px;
-    padding: 0 24px;
+    padding:0 24px;
 }
 
 .texto-um{
-    color: #1900ffd7;
+    color: #1900fff8;
     font-size: 24px;
 }
 .texto-dois{
-    color: #003cffdc;
+    color: #1900fff8;
     font-size: 24px;
 
 }
@@ -21,10 +21,10 @@ body{
 }
 
 .rodape{
-    text-align: center;
+    text-align: justify;
     display:grid;
     font-size: 18px;
-    color: black;
+    color: rgb(8, 64, 114);
 
 }
 
@@ -33,7 +33,3 @@ body{
     width: 30;
 }
 
-.linha{
-    border-bottom: 1px solid #808080;
-    border-top: 1px solid #808080;
-}
